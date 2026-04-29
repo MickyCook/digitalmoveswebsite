@@ -1,0 +1,4 @@
+staticSites:
+  - name: digitalmoveswebsite
+    buildCommand: npm install && npm run build
+    publishPath: dist
